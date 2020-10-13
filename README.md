@@ -1,2 +1,2 @@
 # hello-world
-reporsitorio de prueba
+repositorio de prueba
